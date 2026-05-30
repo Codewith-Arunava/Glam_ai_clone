@@ -1,0 +1,6 @@
+{
+  "name": "Glam AI Clone",
+  "description": "AI Photo & Video Editor studio with generative beauty filters, skin retouching, background swap, and video trimming timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
