@@ -11,7 +11,7 @@ Glam AI Clone is a modern Android application that brings advanced AI-powered ph
 Built using **Kotlin**, **Jetpack Compose**, and **Google Gemini AI**, the application enables users to create professional-quality social media content with minimal effort.
 
 ---
-
+ 
 ## ✨ Features
 
 ### 🎨 AI Beauty Enhancement
